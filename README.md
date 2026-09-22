@@ -2,7 +2,7 @@
 
 ### 🚀 Junior Full-Stack Developer | MERN Stack Specialist
 
-I am a passionate Full-Stack Web Developer with expertise in building responsive, scalable, and user-centric applications using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)[cite: 1]. I enjoy transforming complex problems into clean, efficient code and bridging backend logic with seamless UI design[cite: 1].
+I am a passionate Full-Stack Web Developer with expertise in building responsive, scalable, and user-centric applications using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). I enjoy transforming complex problems into clean, efficient code and bridging backend logic with seamless UI design.
 
 ---
 
@@ -32,29 +32,29 @@ I am a passionate Full-Stack Web Developer with expertise in building responsive
 ### 🌟 Featured Projects
 
 * **🎓 EduVista (Study-Abroad Consultancy Platform)**
-  * **Stack:** React.js, Node.js, Express.js, MongoDB[cite: 1]
-  * **Highlights:** End-to-end full-stack web application covering 14 countries across study categories[cite: 1]. Integrated JWT authentication, personalized user dashboards, searchable directories, and multi-channel quick contacts[cite: 1]. **Graded A as Final Year Project[cite: 1].**
+  * **Stack:** React.js, Node.js, Express.js, MongoDB
+  * **Highlights:** End-to-end full-stack web application covering 14 countries across study categories. Integrated JWT authentication, personalized user dashboards, searchable directories, and multi-channel quick contacts. **Graded A as Final Year Project.**
 
 * **🔐 MERN Auth (Authentication System)**
-  * **Stack:** MongoDB, Express.js, React.js, Node.js, JWT, Bcrypt[cite: 1]
-  * **Highlights:** Secure authentication boilerplate featuring token-based authorization, protected routes, and environment variable config management[cite: 1].
+  * **Stack:** MongoDB, Express.js, React.js, Node.js, JWT, Bcrypt
+  * **Highlights:** Secure authentication boilerplate featuring token-based authorization, protected routes, and environment variable config management.
 
 * **🎨 Frontend Web Applications (CodeAlpha Internship)**
-  * **Stack:** HTML5, CSS3, JavaScript[cite: 1]
-  * **Highlights:** Suite of 4 production-ready web applications: Interactive Music Player, Image Gallery, Calculator, and Developer Portfolio[cite: 1].
+  * **Stack:** HTML5, CSS3, JavaScript
+  * **Highlights:** Suite of 4 production-ready web applications: Interactive Music Player, Image Gallery, Calculator, and Developer Portfolio.
 
 ---
 
 ### 🎓 Education
 
-* **BS in Information Technology** — Superior University, Lahore (2022 – 2026)[cite: 1]
+* **BS in Information Technology** — Superior University, Lahore (2022 – 2026)
 
 ---
 
 ### 📬 Connect with Me
 
-* **Email:** [malikayaqoob50@gmail.com](mailto:malikayaqoob50@gmail.com)[cite: 1]
-* **LinkedIn:** [linkedin.com/in/malikayaqoob50](https://linkedin.com/in/malikayaqoob50)[cite: 1]
-* **GitHub:** [github.com/malikayaqoob50](https://github.com/malikayaqoob50)[cite: 1]
+* **Email:** [malikayaqoob50@gmail.com](mailto:malikayaqoob50@gmail.com)
+* **LinkedIn:** [linkedin.com/in/malikayaqoob50](https://linkedin.com/in/malikayaqoob50)
+* **GitHub:** [github.com/malikayaqoob50](https://github.com/malikayaqoob50)
 
 ---
